@@ -1,6 +1,6 @@
 # Belorussian writers
-
-We are going to look through all authors at https://www.livelib.ru/authors/belorussian and analyze their tags. For example, here:![](image.png)
+## Overview
+We are going to look through all authors at https://www.livelib.ru/authors/belorussian and analyze their tags. For example, here:![](readme-attachment-1.png)
 
 we can see such tags as _poetry, belorussian language, modern literature_.
 
